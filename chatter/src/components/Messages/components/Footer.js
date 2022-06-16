@@ -27,4 +27,4 @@ export default function Footer({ sendMessage, onChangeMessage, message }) {
   );
 }
 
-//f
+///////
